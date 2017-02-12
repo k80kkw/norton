@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "news.html",
+    "currentPage": "homemain.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,11 @@
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 55,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "favicon": "@PROJECT_PATH@/assets/images/ldvuqm-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "squad.html": {
