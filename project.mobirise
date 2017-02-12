@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "homemain.html",
+    "currentPage": "match.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -590,7 +590,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/imageedit-1-7821367554-png-128x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Norton Ladies FC",
               "link": "homemain.html",
               "title": "",
               "linkInNewWindow": false
@@ -842,48 +842,60 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "6",
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ldvuqm-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "News For New Season.",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Noton and Stockton Ancients Ladies are planning for the future by putting in place a reserve team that will compete in the Durham FA development league next season. The aim is to create a clear pathway for the junior girls to progress into the womens game.<br><br>Along with that, the club will still have an U18s team who will compete in the Russell Foster League on a Saturday morning, which will again ensure that there are plenty of opportunities for girls in the area to progress at a local club with progression at the heart of everything.<br><br>With the U15s also moving up to the U16s, the future looks positive for years to come. The club will  also have an U14s side, two U12s teams, an U10s team and a new U9s team for 2017/18.&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/new-signings-copy-600x540.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
+          "title2": "New Signings for Norton.",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Norton &amp; Stockton Ancients Ladies FC are delighted to announce two further additions to our squad.<br><br>Brogan McHugh has now returned to fitness and is registered with the league and ready to complete her comeback from injury and she is joined by new signing Jess White, both will be availble for our upcoming game at home v East Carnegie next weekend.<br><br>Chris Burton, Ladies Manager is delighted to have added to the squad:<br><br>\"Brogan has been working hard for the last year and we are all so pleased for her that she has got herself back to full fitness. She is a great asset to have and will definitely strengthen the team for the run-in. We've also been fortunate enough to sign Jess White who comes with FA WSL experiance. This signing shows our ambition here at Norton and its going to be great to get Jess involved as we look to push for promotion\"<br><br>Brogan will wear the Norton number 11 &amp; Jess takes shirt number 18.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/14711610-10155126732879578-2590557864822523686-o-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "Norton Add Nyci.",
+          "subtitle3": "",
+          "caption3": "Norton Ladies FC are delighted to announce the signing of Nyci Thorns.<br><br>Nyci previously spent 3 years with Norton, winning 3 consecutive promotions in that time. She then moved on to Middlesbrough Ladies then on to Chester Le Street, before her return to Station Road.<br><br>Nyci is excited to be back and is looking forward to what will hopefully be a succesful season in Amber &amp; Black.<br><br>Norton Manager Chris Burton has stated \"Its great to get Nyci back at Norton where she belongs. The signing strengthens our attacking options and shows the direction we are heading. Nyci is a great asset to the club both on and off the field, and also a great role model to our younger players\"<br><br>Welcome Back Nyci #NTID",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -920,7 +932,16 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "H4": {
+              "color": "#fac51c"
+            }
+          }
         }
       ]
     },

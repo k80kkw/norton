@@ -668,6 +668,13 @@ h6,
 #header3-1e H3 {
   font-family: 'Oswald', sans-serif;
 }
+#features3-1i P {
+  color: #ffffff;
+  text-align: left;
+}
+#features3-1i H4 {
+  color: #fac51c;
+}
 
 
 #ext_menu-1b .hide-buttons .nav-btn {
