@@ -510,6 +510,10 @@ h6,
 }
 #contacts2-d P {
   font-family: 'Roboto', sans-serif;
+  color: #000000;
+}
+#contacts2-d STRONG {
+  color: #000000;
 }
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
