@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "squad.html",
     "name": "Norton & Stockton Ancients Ladies FC",
     "theme": {
       "name": "mobirise3",
@@ -195,7 +195,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/paige-2000x2959-800x1183.jpg",
                 "image": "@PROJECT_PATH@/assets/images/paige-2000x2959.jpg",
-                "caption": "25 Paige Hamilton",
+                "caption": "25 Paige Hunter",
                 "active": false
               },
               {
