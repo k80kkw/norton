@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 157,
+    "uniqCompNum": 159,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/ldvuqm-128x128.png",
     "noImageResize": "",
@@ -3957,14 +3957,84 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-4b",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4d",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fac51c"
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Today we are taking a look at why Norton are more than just a ladies football team.</span></p><p><br></p><p>Vicki Hutchinson explains, what makes Norton different:</p><p><br></p><p>\"As a player and vice captain of the senior ladies team, I am aware of the fact we need constant development in the younger age groups, Norton have never been the type of club to cherry pick other teams best players, we would rather provide football for all abilities and develop younger girls in the hope that one day they will step up and play a part in the future of the senior side.\"</p><p><br></p><p>The Current senior side is testament to the ability of Norton to produce home grown players, looking no further than club captain, Kate Mcguire who first pulled on the Amber and Black 17 years ago as a budding Under 8 player, add to that the impact current U18s players, Kate McSorley, Ellie Hamilton &amp; Paige Hunter have all had this season, it proves, development is the key to success.</p><p><br></p><p>But player development is only a small part of what Norton do, as a club, they also promote the development of coaches &amp; volunteers.</p><p>From the current senior side, a number of people also have other roles within the club, Vicki is manager of the current U18 Girls, coach of the U15s and Head of Female Football on the club committee.</p><p><br></p><p>It doesnt end their, First team manager Chris Burton, is also manager of the U15s and coaches the U18s, Ellie Hamilton &amp; Mia Brannigan from the U18s are undertaking their FA Level 1 Coaching Badge along with Kate McGuire &amp; Becca Davison from the ladies who will take over the the U8 side. Sian Williams is already an FA Level 2 coach and will be coaching the U13s in the coming season and Paige Hunter is one of the lead coaches at the develpoment centre.</p><p><br></p><p>By the end of this season, the female section of the club will have a \"Uefa B\", 4 x Level 2 and 13 x Level 1 Coaches, 12 of which are current players in the senior side.</p><p><br></p><p>The future is certainly bright, the future is Amber &amp; Black.</p><p><br></p><p><br></p><p><br></p><p><br></p>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/u15s-after-semifinal-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Today we are taking a look at why Norton are more than just a ladies football team.<br><br>Vicki Hutchinson explains, what makes Norton different:<br><br>\"As a player and vice captain of the senior ladies team, I am aware of the fact we need constant development in the younger age groups, Norton have never been the type of club to cherry pick other teams best players, we would rather provide football for all abilities and develop younger girls in the hope that one day they will step up and play a part in the future of the senior side.\"<br><br>The Current senior side is testament to the ability of Norton to produce home grown players, looking no further than club captain, Kate Mcguire who first pulled on the Amber and Black 17 years ago as a budding Under 8 player, add to that the impact current U18s players, Kate McSorley, Ellie Hamilton &amp; Paige Hunter have all had this season, it proves, development is the key to success.<br><br>But player development is only a small part of what Norton do, as a club, they also promote the development of coaches &amp; volunteers.<br>From the current senior side, a number of people also have other roles within the club, Vicki is manager of the current U18 Girls, coach of the U15s and Head of Female Football on the club committee.<br><br>It doesnt end their, First team manager Chris Burton, is also manager of the U15s and coaches the U18s, Ellie Hamilton &amp; Mia Brannigan from the U18s are undertaking their FA Level 1 Coaching Badge along with Kate McGuire &amp; Becca Davison from the ladies who will take over the the U8 side. Sian Williams is already an FA Level 2 coach and will be coaching the U13s in the coming season and Paige Hunter is one of the lead coaches at the develpoment centre.<br><br>By the end of this season, the female section of the club will have a \"Uefa B\", 4 x Level 2 and 13 x Level 1 Coaches, 12 of which are current players in the senior side.<br><br>The future is certainly bright, the future is Amber &amp; Black.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-4e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         }
       ]
     },
