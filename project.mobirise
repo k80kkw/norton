@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "fapeoplescup.html",
+    "currentPage": "futuresamber.html",
     "name": "Norton & Stockton Ancients Ladies FC",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 148,
+    "uniqCompNum": 157,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/ldvuqm-128x128.png",
     "noImageResize": "",
@@ -533,7 +533,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -574,17 +574,17 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/u15s%20after%20semifinal-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/u15s-after-semifinal-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "futuresamber.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title3": "The Futures Bright, The Futures Amber.",
+          "title3": "<a href=\"futuresamber.html\">The Futures Bright, The Futures Amber.</a>",
           "subtitle3": "",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2202,6 +2202,31 @@
           "title": "NEXT SEASON.",
           "text": "Sunday 5th February 2017:<br><br>Norton and Stockton Ancients Ladies are planning for the future by putting in place a reserve team that will compete in the Durham FA development league next season. The aim is to create a clear pathway for the junior girls to progress into the womens game.<br><br>Along with that, the club will still have an U18s team who will compete in the Russell Foster League on a Saturday morning, which will again ensure that there are plenty of opportunities for girls in the area to progress at a local club with progression at the heart of everything.<br><br>With the U15s also moving up to the U16s, the future looks positive for years to come. The club will also have an U14s side, two U12s teams, an U10s team and a new U9s team for 2017/18.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-47",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         }
       ]
     },
@@ -2390,6 +2415,31 @@
           "title": "NEW SIGNINGS.",
           "text": "Thursday 2nd February 2017:<br><br>Norton &amp; Stockton Ancients Ladies FC are delighted to announce two further additions to our squad.<br><br>Brogan McHugh has now returned to fitness and is registered with the league and ready to complete her comeback from injury and she is joined by new signing Jess White, both will be availble for our upcoming game at home v East Carnegie next weekend.<br><br>Chris Burton, Ladies Manager is delighted to have added to the squad:<br><br>\"Brogan has been working hard for the last year and we are all so pleased for her that she has got herself back to full fitness. She is a great asset to have and will definitely strengthen the team for the run-in. We've also been fortunate enough to sign Jess White who comes with FA WSL experiance. This signing shows our ambition here at Norton and its going to be great to get Jess involved as we look to push for promotion\"<br><br>Brogan will wear the Norton number 11 &amp; Jess takes shirt number 18.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-46",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         }
       ]
     },
@@ -2578,6 +2628,31 @@
           "title": "NORTON ADD NYCI.",
           "text": "Friday 23rd September 2016:<br><br>Norton Ladies FC are delighted to announce the signing of Nyci Thorns.<br><br>Nyci previously spent 3 years with Norton, winning 3 consecutive promotions in that time. She then moved on to Middlesbrough Ladies then on to Chester Le Street, before her return to Station Road.<br><br>Nyci is excited to be back and is looking forward to what will hopefully be a succesful season in Amber &amp; Black.<br><br>Norton Manager Chris Burton has stated \"Its great to get Nyci back at Norton where she belongs. The signing strengthens our attacking options and shows the direction we are heading. Nyci is a great asset to the club both on and off the field, and also a great role model to our younger players\"<br><br>Welcome Back Nyci #NTID",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-48",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         }
       ]
     },
@@ -3642,6 +3717,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -3667,7 +3745,7 @@
             "showTitle": true,
             "showCaption": false
           },
-          "title": "U15s March to the League Cup Final.",
+          "title": "U15s March to the League Shield Final.",
           "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
         },
         {
@@ -3681,7 +3759,32 @@
             "paddingBottom": 1,
             "bgColor": "#fac51c"
           },
-          "text": "<p>Our U15 Girls are heading to Newbottle after a fantastic 5-0 win against Bishop Auckland Girls in the Semi Final of the Russell Foster Cup.</p><p><br></p><p>The girls were spurred on by a fantastic home crowd, which included members of the U18 and Senior Ladies sides.</p><p>After a very strong performance, the girls ran out 5-0 winners, with all members of the squad playing their part on the field.</p><p><br></p><p>Goalscorers:</p><p>Libby Waller (4)</p><p>Nicole Henderson<br><div><br></div></p>"
+          "text": "<p>Our U15 Girls are heading to Newbottle after a fantastic 5-0 win against Bishop Auckland Girls in the Semi Final of the Russell Foster Shield.</p><p><br></p><p>The girls were spurred on by a fantastic home crowd, which included members of the U18 and Senior Ladies sides.</p><p>After a very strong performance, the girls ran out 5-0 winners, with all members of the squad playing their part on the field.</p><p><br></p><p>Goalscorers:</p><p>Libby Waller (4)</p><p>Nicole Henderson<br></p><div><br></div><p></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-45",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         }
       ]
     },
@@ -3784,6 +3887,84 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"homemain.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"squad.html\" aria-expanded=\"false\">SQUAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"news.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"match.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MATCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://full-time.thefa.com/ListPublicFixture.do?selectedFixtureGroupKey=1_322695101&amp;selectedRelatedFixtureOption=2&amp;selectedClub=123150880&amp;selectedTeam=&amp;selectedFixtureDateStatus=&amp;selectedFixtureStatus=&amp;selectedDateCode=all&amp;selectednavpage1=1&amp;navPageNumber1=1&amp;previousSelectedFixtureGroupKey=1_322695101&amp;previousSelectedClub=&amp;seasonID=237655026&amp;selectedSeason=237655026\" target=\"_blank\">FIXTURES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"results.html\">RESULTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://full-time.thefa.com/Index.do?divisionseason=322695101&amp;league=9125628\" target=\"_blank\">TABLE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">SOCIAL<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VIDEOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partners.html\" aria-expanded=\"false\">PARTNERS<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"squad.html\">SQUAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-49",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fac51c",
+            "showMeta": false
+          },
+          "title": "NORTON &amp; STOCKTON ANCIENTS LADIES FC",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-4c",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/u15s-after-semifinal-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "NORTON &amp; STOCKTON ANCIENTS LADIES &amp; GIRLS",
+          "caption": "WE ARE NOT JUST A TEAM, WE ARE A CLUB."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fac51c"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Today we are taking a look at why Norton are more than just a ladies football team.</span></p><p><br></p><p>Vicki Hutchinson explains, what makes Norton different:</p><p><br></p><p>\"As a player and vice captain of the senior ladies team, I am aware of the fact we need constant development in the younger age groups, Norton have never been the type of club to cherry pick other teams best players, we would rather provide football for all abilities and develop younger girls in the hope that one day they will step up and play a part in the future of the senior side.\"</p><p><br></p><p>The Current senior side is testament to the ability of Norton to produce home grown players, looking no further than club captain, Kate Mcguire who first pulled on the Amber and Black 17 years ago as a budding Under 8 player, add to that the impact current U18s players, Kate McSorley, Ellie Hamilton &amp; Paige Hunter have all had this season, it proves, development is the key to success.</p><p><br></p><p>But player development is only a small part of what Norton do, as a club, they also promote the development of coaches &amp; volunteers.</p><p>From the current senior side, a number of people also have other roles within the club, Vicki is manager of the current U18 Girls, coach of the U15s and Head of Female Football on the club committee.</p><p><br></p><p>It doesnt end their, First team manager Chris Burton, is also manager of the U15s and coaches the U18s, Ellie Hamilton &amp; Mia Brannigan from the U18s are undertaking their FA Level 1 Coaching Badge along with Kate McGuire &amp; Becca Davison from the ladies who will take over the the U8 side. Sian Williams is already an FA Level 2 coach and will be coaching the U13s in the coming season and Paige Hunter is one of the lead coaches at the develpoment centre.</p><p><br></p><p>By the end of this season, the female section of the club will have a \"Uefa B\", 4 x Level 2 and 13 x Level 1 Coaches, 12 of which are current players in the senior side.</p><p><br></p><p>The future is certainly bright, the future is Amber &amp; Black.</p><p><br></p><p><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -3916,6 +4097,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fac51c"
+            }
+          },
           "_anchor": "msg-box5-42",
           "_params": {
             "imageSize": 50,
@@ -3924,7 +4110,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fac51c",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3975,7 +4161,32 @@
             "paddingBottom": 1,
             "bgColor": "#fac51c"
           },
-          "text": "<p>Vicki / Chris,</p><p>Can you do a little write up ????<br><div><br></div></p>"
+          "text": "<p>The ladies entered the local round of the FA Peoples Cup at Goals Teesside and were joined by the club's U18s side and Middlebrough Foundation.</p><p><br></p><p>The ladies won all 4 games, scoring 27 and conceding only 1.&nbsp;</p><p>The under 18s finished second with 2 wins.</p><p><br></p><p>The ladies now go to Leeds on 25th March to compete in the semi-finals.</p><p><br></p><p>Ladies - Chisnall, Hutchinson, Beetch, Thorns, Williams, McGovern, White.</p><p><br></p><p>U18s - Moore, McSorley, Buckley, Fenby, Hunter, Hamilton, Atkinson.</p><p><br></p><p><br></p><div><br></div><p></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-44",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         }
       ]
     }

@@ -1676,6 +1676,11 @@ h6,
 #content5-3y p {
   color: #fff;
 }
+#content5-3y .mbr-section-title {
+  color: #ffffff;
+}
+
+
 
 #ext_menu-3o .hide-buttons .nav-btn {
   display: none !important;
@@ -1738,6 +1743,25 @@ h6,
 #ext_menu-3o .link[aria-expanded="true"],
 #ext_menu-3o .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
+}
+#header3-49 .mbr-section-title,
+#header3-49 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-49 H3 {
+  font-family: 'Oswald', sans-serif;
+}
+#content5-4c .mbr-section-title,
+#content5-4c p {
+  color: #fff;
+}
+#content5-4c DIV {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-4c .mbr-section-title {
+  font-size: 36px;
 }
 
 
@@ -1809,4 +1833,7 @@ h6,
 }
 #header3-3x H3 {
   font-family: 'Oswald', sans-serif;
+}
+#msg-box5-42 H3 {
+  color: #fac51c;
 }
